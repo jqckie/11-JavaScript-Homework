@@ -2,6 +2,7 @@
 
 ## Instructions
 * Go to [https://jqckie.github.io/Javascript-UFO-Sightings-Page/](https://jqckie.github.io/Javascript-UFO-Sightings-Page/) to view the page, which displays data from [data.js](static/js/data.js)
+* In the Filter Search box, enter a date between 1/1/2010 and 1/13/2010, then click Filter Table
 
 ## Background
 
